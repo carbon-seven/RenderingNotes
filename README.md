@@ -1,2 +1,2 @@
 # RenderingNotes
-Some notes related to rendering
+Some notes I made related to rendering.
